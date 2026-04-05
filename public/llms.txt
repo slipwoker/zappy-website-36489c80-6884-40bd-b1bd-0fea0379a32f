@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סוחר הוא דירקטוריון העסקים החרדי המוביל בישראל. מצא עסקים מקומיים, שירותים ומוצרים המותאמים לציבור החרדי — הכל במקום אחד, מהיר ונגיש.
+
+### שירותים
+https://example.com/services
+גלה מגוון רחב של שירותים המיועדים לציבור החרדי. מפרסום עסקי בקהילה החרדית ועד חיפוש מותאם אישית — סוחר מחבר בין עסקים ולקוחות בצורה הטובה ביותר.
+
+### אודות
+https://example.com/about
+סוחר נוסד מתוך מחויבות עמוקה לציבור החרדי. למד על החזון שלנו לחבר עסקים וצרכנים בקהילה, ועל הערכים שמנחים אותנו בכל צעד ושעל.
+
+### צור קשר
+https://example.com/contact
+יש לך עסק בציבור החרדי ורוצה להצטרף לדירקטוריון? צור קשר עם צוות סוחר עוד היום ונשמח לעזור לך להגיע לאלפי לקוחות פוטנציאליים בקהילה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - סוחר
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - סוחר
+
+### Category
+https://example.com/category/:slug
+מוצרים - סוחר
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
